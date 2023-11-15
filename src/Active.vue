@@ -192,6 +192,7 @@ export default {
             textStyle: {
                 //改变xy轴上文字的颜色
                 color: "#FFF",
+                
             },
           }
         },
